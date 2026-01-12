@@ -103,6 +103,17 @@ This section focuses on **drawing conclusions from data** and making data-driven
 
 ---
 
-📌 **Note:**  
-This roadmap is **actively followed** while creating topic-wise notes, explanations, and examples in this repository.  
+## 📚 References & Study Sources
+
+This roadmap is created based on my personal study notes and learning experience in Statistics for Data Analytics.
+
+Primary sources include:
+- Self-made handwritten notes during coursework and self-study
+- Standard academic syllabus for Statistics in Data Analytics / Data Science
+- Concepts commonly covered in:
+  - Introductory Statistics textbooks
+  - Online learning platforms and tutorials (used for concept clarity)
+
+⚠️ Note:  
+This roadmap reflects my **learning sequence**, not a copy of any single book or course.
 The content will grow gradually as I continue learning and revising statistics for real-world data analytics use cases.
