@@ -229,5 +229,6 @@ There are **four main sampling techniques**:
 9. Drawing conclusions  
 10. Document the Analysis Process
 ---
-
+📄 *Handwritten notes are provided in PDF format and can be downloaded for detailed study.*
+---
 📌 *These notes are continuously updated as part of my learning journey in Data Analytics and Data Science.*
