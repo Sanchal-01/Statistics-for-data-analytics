@@ -55,7 +55,6 @@ This section builds the **foundation for uncertainty and randomness**, which is 
 - Complement of Probability
 - Conditional Probability
 - Bayes Theorem
-- Probability Distribution
 
 ---
 
